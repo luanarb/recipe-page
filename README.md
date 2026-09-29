@@ -1,6 +1,6 @@
 # Recipe Page
 
-![Screenshot do Recipe Page](./screenshot.png)
+![Screenshot do Recipe Page](./assets/images/screenshot.png)
 
 ## 🔗 Links
 
